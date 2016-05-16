@@ -1,3 +1,6 @@
+Keep in mind this project was done in a short amount of time so the code quality may be a little messy at times.
+
+
 Takes a dictionary and prints classes of anagrams on each line.
 
 **Algorithm Design:**
